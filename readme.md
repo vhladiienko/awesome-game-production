@@ -36,7 +36,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 
 ## Tools
 
-As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exist. This is to help you gain some credits in your team.
+As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
 
 - [Machinations](https://machinations.io/)
 - [List item](http://example.com)
