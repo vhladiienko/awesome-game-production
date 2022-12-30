@@ -11,17 +11,23 @@
 
 ## For newcomers
 
+<sup>[back to top ^](#contents)</sup>
+
 This section should contain stuff to help deciding if you want to be one, and if yes - where do you start.
 
 ## Books
 
+<sup>[back to top ^](#contents)</sup>
+
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
+- [Agile Game Development with SCRUM](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521)
 - [List item](http://example.com)
 
 
 ## Articles
+
+<sup>[back to top ^](#contents)</sup>
 
 Links to articles, hosted elsewhere. These may disapper or change location overtime, which is when you might want to ask [Wayback Machine](https://archive.org/web/) for help.
 
@@ -30,11 +36,15 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 
 ### Subsection
 
+<sup>[back to top ^](#contents)</sup>
+
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 
 ## Tools
+
+<sup>[back to top ^](#contents)</sup>
 
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
 
@@ -43,11 +53,15 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 ## Subscriptions
 
+<sup>[back to top ^](#contents)</sup>
+
 To stay up-to-date, consider subscribing to all or some of the below resources. Most of them should be in English, but I might include other awesome resources in other languages, if you help me by [creating a pull request]. Appreciate it!
 
 - [List item](http://example.com)
 - [List item](http://example.com)
 
 ## Contribute
+
+<sup>[back to top ^](#contents)</sup>
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
