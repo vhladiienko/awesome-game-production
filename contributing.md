@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Label your pull request according to the changes you made
+- Double-check your spelling
+- Check the external link for any locale modifiers and use the EN resource version if such exists 
 
 Thank you for your suggestions!
 
