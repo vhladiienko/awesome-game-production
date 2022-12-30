@@ -10,7 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - Label your pull request according to the changes you made
 - Double-check your spelling
-- Check the external link for any locale modifiers and use the EN resource version if such exists 
+- Check the external link for any locale modifiers and use the EN resource version if such exists. Feel free to use tools like [this](https://linkcleaner.app/) one to aid with link cleanup.
 
 Thank you for your suggestions!
 
