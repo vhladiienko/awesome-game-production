@@ -1,6 +1,8 @@
 # Awesome Game Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources, related to game production process: books, articles, tools, project management, methodologies etc. This list does not cover specific disciplines like game design, quality assurance, programming. Its focus is management and production.
+This is **not a collection**, this is a list of the [most awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome) stuff.
+
+> A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc. This list does not cover specific disciplines like game design, quality assurance, programming. Its focus is management and production.
 
 
 ## Contents
