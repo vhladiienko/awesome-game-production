@@ -71,8 +71,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 To stay up-to-date, consider subscribing to all or some of the below resources. Most of them should be in English, but I might include other awesome resources in other languages, if you help me by [creating a pull request]. Appreciate it!
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [fedoruk.works](https://t.me/beardpm) <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16"> - quality project management content, not game development specific
 
 ## Contribute
 
