@@ -5,15 +5,17 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Books](#books)
+- [Articles](#articles)
+- [Tools](#tools)
+- [Subscriptions](#subscriptions)
 
 
 ## For newcomers
 
 <sup>[back to top ^](#contents)</sup>
 
-This section should contain stuff to help deciding if you want to be one, and if yes - where do you start.
+This section should contain stuff to help deciding if you want to be a game producer, and if yes - where do you start.
 
 ## Books
 
@@ -21,8 +23,8 @@ This section should contain stuff to help deciding if you want to be one, and if
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [Agile Game Development with SCRUM](https://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521)
-- [List item](http://example.com)
+- [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521)
+- [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817)
 
 
 ## Articles
@@ -49,7 +51,6 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
 
 - [Machinations](https://machinations.io/)
-- [List item](http://example.com)
 
 ## Subscriptions
 
