@@ -9,6 +9,7 @@ This is **not a collection**, this is a list of the [most awesome](https://githu
 
 - [Books](#books)
 - [Articles](#articles)
+- [Videos](#videos)
 - [Tools](#tools)
 - [Subscriptions](#subscriptions)
 
