@@ -53,8 +53,11 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 
 <sup>[back to top ^](#contents)</sup>
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Producer Bootcamp: High Performance Producers](https://www.youtube.com/watch?v=0yyeLmjQGFg&t=null)
+- [My To-Do List: Organizing a Producer's Work](https://www.youtube.com/watch?v=zW8gKpEP-rs&t=null)
+- [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null)
+- [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null)
+- [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
 
 
 ## Tools
