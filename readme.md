@@ -76,6 +76,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 To stay up-to-date, consider subscribing to all or some of the below resources. Most of them should be in English, but I might include other awesome resources in other languages, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Appreciate it!
 
 - [fedoruk.works](https://t.me/beardpm) <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16"> - quality project management content, not game development specific
+- [GDC](https://www.youtube.com/@Gdconf) - Game Developers Conference YouTube channel, all sorts of talks on anything game development related. It's huge and is updated frequently, but you'll have to filter the information you need.
 
 ## Contribute
 
