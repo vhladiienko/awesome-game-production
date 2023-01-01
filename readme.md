@@ -54,13 +54,20 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
 
 
-## :wrench: Tools
+## :wrench: Tools and templates
 
 <sup>[back to top ^](#contents)</sup>
 
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
 
+
+### Tools
+
 - [Machinations](https://machinations.io/)
+
+### Templates
+
+
 
 ## :incoming_envelope: Subscriptions
 
