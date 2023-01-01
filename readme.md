@@ -67,7 +67,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 ### Templates
 
-
+- [Art Asset List template](https://docs.google.com/spreadsheets/d/1G7X_Xzx9P8TONQewx8FDgBgF06pQcRPzz3COvWiHn2U/edit?usp=sharing) - A basic and process agnostic template to keep track of all in-game assets, that need to be produced, their status (high-level) and naming. Should be adjusted to your production pipeline.
 
 ## :incoming_envelope: Subscriptions
 
