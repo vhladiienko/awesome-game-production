@@ -39,8 +39,7 @@ Some books might not be as good as the others, but still hold some value to prod
 
 Links to articles, hosted elsewhere. These may disapper or change location overtime, which is when you might want to ask [Wayback Machine](https://archive.org/web/) for help.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - if using Agile on your project, User Story Mapping can greatly help prioriitize and plan releases. This article gives a _very brief_ explanation and provides and example.
 
 ### Subsection
 
