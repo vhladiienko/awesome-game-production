@@ -19,7 +19,7 @@ Majority of the provided resources are in English, but I might include items in 
 
 <sup>[back to top ^](#contents)</sup>
 
-This section is aimed to help deciding if you want to be a game producer, and if yes - where do you start.
+Handpicked newbie-friendly resources. This section is aimed to help deciding if you want to be a game producer, and if yes - where do you start.
 
 ## :books: Books
 
