@@ -63,7 +63,8 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 ### Tools
 
-- [Machinations](https://machinations.io/)
+- [Machinations](https://machinations.io/) - a tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](https://amazon.com/dp/1138632058), so its old but it has transformed over the years.
+- [Excalidraw](https://excalidraw.com/) - a free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
 
 ### Templates
 
