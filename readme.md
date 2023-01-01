@@ -5,7 +5,7 @@ This is **not a collection**, this is a list of the [most awesome](https://githu
 > A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc. This list does not cover specific disciplines like game design, quality assurance, programming. Its focus is management and production.
 
 
-## Contents
+## Contents 
 
 - [Books](#books)
 - [Articles](#articles)
@@ -14,13 +14,13 @@ This is **not a collection**, this is a list of the [most awesome](https://githu
 - [Subscriptions](#subscriptions)
 
 
-## For newcomers
+## 🎓 For newcomers
 
 <sup>[back to top ^](#contents)</sup>
 
 This section should contain stuff to help deciding if you want to be a game producer, and if yes - where do you start.
 
-## Books
+## :books: Books
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -33,7 +33,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - if you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
 
 
-## Articles
+## :newspaper: Articles
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -42,7 +42,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - if using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
 
 
-## Videos
+## :tv: Videos
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -53,7 +53,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
 
 
-## Tools
+## :wrench: Tools
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -61,7 +61,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 - [Machinations](https://machinations.io/)
 
-## Subscriptions
+## :incoming_envelope: Subscriptions
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -70,7 +70,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 - [fedoruk.works](https://t.me/beardpm) <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16"> - quality project management content, not game development specific
 - [GDC](https://www.youtube.com/@Gdconf) - Game Developers Conference YouTube channel, all sorts of talks on anything game development related. It's huge and is updated frequently, but you'll have to filter the information you need.
 
-## Contribute
+## :pencil2: Contribute
 
 <sup>[back to top ^](#contents)</sup>
 
