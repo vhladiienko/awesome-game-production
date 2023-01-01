@@ -4,6 +4,7 @@ This is **not a collection**, this is a list of the [most awesome](https://githu
 
 > A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc. This list does not cover specific disciplines like game design, quality assurance, programming. Its focus is management and production.
 
+Most of the provided resources are in English, but I might include stuff in other languages too, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Look for a flag next to the link.
 
 ## Contents 
 
@@ -65,9 +66,9 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 <sup>[back to top ^](#contents)</sup>
 
-To stay up-to-date, consider subscribing to all or some of the below resources. Most of them should be in English, but I might include other awesome resources in other languages, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Appreciate it!
+To stay up-to-date, consider subscribing to all or some of the below resources.
 
-- [fedoruk.works](https://t.me/beardpm) <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16"> - quality project management content, not game development specific
+- [fedoruk.works](https://t.me/beardpm) (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) - quality project management content, not game development specific
 - [GDC](https://www.youtube.com/@Gdconf) - Game Developers Conference YouTube channel, all sorts of talks on anything game development related. It's huge and is updated frequently, but you'll have to filter the information you need.
 
 ## :pencil2: Contribute
