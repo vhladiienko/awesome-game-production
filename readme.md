@@ -41,13 +41,6 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 
 - [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - if using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
 
-### Subsection
-
-<sup>[back to top ^](#contents)</sup>
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
 
 ## Videos
 
