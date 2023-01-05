@@ -33,6 +33,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678)
 - [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - if you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
 - [The Game Production Handbook](https://amazon.com/dp/1449688098)
+- [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - it is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 
 
 ## :newspaper: Articles
