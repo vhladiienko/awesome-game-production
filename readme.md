@@ -87,12 +87,11 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 ### Newsletters
 
-- [Deconstructor of Fun](https://www.deconstructoroffun.com/) - not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a podcast.
+- [Deconstructor of Fun](https://www.deconstructoroffun.com/) - not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
 
 ### Podcasts
 
 - [The Art of LiveOps](https://pca.st/ywLc6I) - this one's "deprecated", but some (if not all) episodes are still relevant. If youre managing a live mobile game, give it a listen.
-- 
 
 ### Other sources
 
