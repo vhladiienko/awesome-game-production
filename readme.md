@@ -79,10 +79,24 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 <sup>[back to top ^](#contents)</sup>
 
-To stay up-to-date, consider subscribing to all or some of the below resources.
+To stay up-to-date, consider subscribing to all or some of the below resources. These are not production related (as in Project Management), but as a producer, you kinda want to know a little bit about everything in gamedev. So pick your poison.
+
+### YouTube
+
+- [GDC](https://www.youtube.com/@Gdconf) - Game Developers Conference YouTube channel, all sorts of talks on anything game development related. It's huge and is updated frequently, but you'll have to filter the information you need.
+
+### Newsletters
+
+- [Deconstructor of Fun](https://www.deconstructoroffun.com/) - not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a podcast.
+
+### Podcasts
+
+- [The Art of LiveOps](https://pca.st/ywLc6I) - this one's "deprecated", but some (if not all) episodes are still relevant. If youre managing a live mobile game, give it a listen.
+- 
+
+### Other sources
 
 - [fedoruk.works](https://t.me/beardpm) (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) - quality project management content, not game development specific
-- [GDC](https://www.youtube.com/@Gdconf) - Game Developers Conference YouTube channel, all sorts of talks on anything game development related. It's huge and is updated frequently, but you'll have to filter the information you need.
 
 ## :pencil2: Contribute
 
