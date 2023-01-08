@@ -21,6 +21,10 @@ Majority of the provided resources are in English, but I might include items in 
 
 Handpicked newbie-friendly resources. This section is aimed to help deciding if you want to be a game producer, and if yes - where do you start.
 
+- [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
+- [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
+- [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
+
 ## :books: Books
 
 <sup>[back to top ^](#contents)</sup>
