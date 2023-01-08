@@ -52,6 +52,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Designing a Production Process: Part 3](https://www.ryandarcey.com/making-moves/2016/8/4/designing-a-production-process-part-3)
 - [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - One could say this article states the obvious, but I personally tend to forget about some key characteristics of a good producer, especially when under pressure (always?). Serves as a good reminder.
 - [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2)
+- [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - the title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
 
 
 ## :tv: Videos
