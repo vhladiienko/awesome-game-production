@@ -31,6 +31,11 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 - [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
 - [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
 
+### If you're interested about salaries
+
+1. Google, reddit, or glassdoor your desired position and country combination, because the salaries vary drastically. Good luck finding data!
+2. [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) by [Evva Karr](https://www.evvakarr.com/)
+
 ## :books: Books
 
 <sup>[back to top ^](#contents)</sup>
