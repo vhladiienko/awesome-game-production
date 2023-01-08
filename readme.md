@@ -33,8 +33,9 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ### If you're interested about salaries
 
-1. Google, reddit, or glassdoor your desired position and country combination, because the salaries vary drastically. Good luck finding data!
-2. [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) by [Evva Karr](https://www.evvakarr.com/)
+- Google, reddit, or glassdoor your desired position and country combination, because the salaries vary drastically. Good luck finding data!
+- [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) by [Evva Karr](https://www.evvakarr.com/)
+- [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - not sure how accurate this data is, as I'm not from USA.
 
 ## :books: Books
 
