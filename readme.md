@@ -64,6 +64,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null)
 - [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null)
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
+- [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) ([slides](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)) - your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time.
 
 
 ## :wrench: Tools and templates
