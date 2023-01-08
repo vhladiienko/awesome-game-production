@@ -19,7 +19,13 @@ Majority of the provided resources are in English, but I might include items in 
 
 <sup>[back to top ^](#contents)</sup>
 
-Handpicked newbie-friendly resources. This section is aimed to help deciding if you want to be a game producer, and if yes - where do you start.
+Handpicked newbie-friendly resources. This section explains how games are made, and is aimed to help deciding if you want to be a game producer. And if yes - where do you start.
+
+### If you have no idea how games are made
+
+1. [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - this book is old, but the production process hasn't fundamentally changed.
+
+### If you want to know who the hell a game producer is
 
 - [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
 - [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
@@ -38,6 +44,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - if you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
 - [The Game Production Handbook](https://amazon.com/dp/1449688098)
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - it is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
+- [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
 
 
 ## :newspaper: Articles
