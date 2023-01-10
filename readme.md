@@ -27,6 +27,7 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ### If you want to know who the hell a game producer is
 
+- [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
 - [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
 - [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
 - [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
