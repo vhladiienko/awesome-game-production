@@ -23,14 +23,15 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ### If you have no idea how games are made
 
-1. [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - this book is old, but the production process hasn't fundamentally changed.
+1. [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) 📖 - this book is old, but the production process hasn't fundamentally changed.
 
 ### If you want to know who the hell a game producer is
 
-- [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
-- [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
-- [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
-- [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
+- [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) 📰 - A nice summary by Jason Schreier - the dude, who you should probably follow.
+- [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) 📰
+- [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) 📰
+- [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) 📰
+- [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) 📺 - detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
 
 ### If you're interested about salaries
 
@@ -38,7 +39,7 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) by [Evva Karr](https://www.evvakarr.com/)
 - [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - not sure how accurate this data is, as I'm not from USA.
 
-## :books: Books
+## 📚 Books
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -54,7 +55,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
 
 
-## :newspaper: Articles
+## 📰 Articles
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -69,7 +70,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - the title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
 
 
-## :tv: Videos
+## 📺 Videos
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -81,7 +82,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) ([slides](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)) - your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time.
 
 
-## :wrench: Tools and templates
+## 🔧 Tools and templates
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -97,7 +98,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 - [Art Asset List template](https://docs.google.com/spreadsheets/d/1G7X_Xzx9P8TONQewx8FDgBgF06pQcRPzz3COvWiHn2U/edit?usp=sharing) - A basic and process agnostic template to keep track of all in-game assets, that need to be produced, their status (high-level) and naming. Should be adjusted to your production pipeline.
 
-## :incoming_envelope: Subscriptions
+## 📨 Subscriptions
 
 <sup>[back to top ^](#contents)</sup>
 
@@ -119,7 +120,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - [fedoruk.works](https://t.me/beardpm) (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) - quality project management content, not game development specific
 
-## :pencil2: Contribute
+## ✏️ Contribute
 
 <sup>[back to top ^](#contents)</sup>
 
