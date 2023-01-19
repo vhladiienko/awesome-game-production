@@ -9,27 +9,23 @@ This is **not a collection**, this is a list of the [most awesome](https://githu
 Majority of the provided resources are in English, but I might include items in other languages too, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Look for a flag next to the link.
 
 ## Contents 
-
-- [Awesome Game Production ](#awesome-game-production-)
-  - [Contents](#contents)
-  - [🎓 For newcomers](#-for-newcomers)
-    - [If you have no idea how games are made](#if-you-have-no-idea-how-games-are-made)
-    - [If you want to know who the hell a game producer is](#if-you-want-to-know-who-the-hell-a-game-producer-is)
-    - [If you're interested about salaries](#if-youre-interested-about-salaries)
-  - [📚 Books](#-books)
-  - [📰 Articles](#-articles)
-  - [📺 Videos](#-videos)
-  - [🔧 Tools and templates](#-tools-and-templates)
-    - [Tools](#tools)
-    - [Templates](#templates)
-  - [📨 Subscriptions](#-subscriptions)
-    - [YouTube](#youtube)
-    - [Newsletters](#newsletters)
-    - [Podcasts](#podcasts)
-    - [Other sources](#other-sources)
-  - [📝 Contribute](#-contribute)
-  - [⭐ Footnotes](#-footnotes)
-
+- [🎓 For newcomers](#-for-newcomers)
+  - [If you have no idea how games are made](#if-you-have-no-idea-how-games-are-made)
+  - [If you want to know who the hell a game producer is](#if-you-want-to-know-who-the-hell-a-game-producer-is)
+  - [If you're interested about salaries](#if-youre-interested-about-salaries)
+- [📚 Books](#-books)
+- [📰 Articles](#-articles)
+- [📺 Videos](#-videos)
+- [🔧 Tools and templates](#-tools-and-templates)
+  - [Tools](#tools)
+  - [Templates](#templates)
+- [📨 Subscriptions](#-subscriptions)
+  - [YouTube](#youtube)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [Other sources](#other-sources)
+- [📝 Contribute](#-contribute)
+- [⭐ Footnotes](#-footnotes)
 
 ## 🎓 For newcomers
 
