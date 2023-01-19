@@ -20,8 +20,6 @@ Majority of the provided resources are in English, but I might include items in 
 
 ## 🎓 For newcomers
 
-<sup>[back to top ^](#contents)</sup>
-
 Handpicked newbie-friendly resources. This section explains how games are made, and is aimed to help deciding if you want to be a game producer. And if yes - where do you start.
 
 ### If you have no idea how games are made
@@ -44,8 +42,6 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ## 📚 Books
 
-<sup>[back to top ^](#contents)</sup>
-
 Some books might not be as good as the others, but still hold some value to producers. Refer to the [Articles](#articles) section for more practical resources, and consider below books for your next evening reading session.
 
 - [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521)
@@ -60,8 +56,6 @@ Some books might not be as good as the others, but still hold some value to prod
 
 ## 📰 Articles
 
-<sup>[back to top ^](#contents)</sup>
-
 Links to articles, hosted elsewhere. These may disapper or change location overtime, which is when you might want to ask [Wayback Machine](https://archive.org/web/) for help.
 
 - [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
@@ -75,8 +69,6 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 
 ## 📺 Videos
 
-<sup>[back to top ^](#contents)</sup>
-
 - [Producer Bootcamp: High Performance Producers](https://www.youtube.com/watch?v=0yyeLmjQGFg&t=null)
 - [My To-Do List: Organizing a Producer's Work](https://www.youtube.com/watch?v=zW8gKpEP-rs&t=null)
 - [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null)
@@ -86,8 +78,6 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 
 
 ## 🔧 Tools and templates
-
-<sup>[back to top ^](#contents)</sup>
 
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
 
@@ -102,8 +92,6 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [Art Asset List template](https://docs.google.com/spreadsheets/d/1G7X_Xzx9P8TONQewx8FDgBgF06pQcRPzz3COvWiHn2U/edit?usp=sharing) - A basic and process agnostic template to keep track of all in-game assets, that need to be produced, their status (high-level) and naming. Should be adjusted to your production pipeline.
 
 ## 📨 Subscriptions
-
-<sup>[back to top ^](#contents)</sup>
 
 To stay up-to-date, consider subscribing to all or some of the below resources. These are not production related (as in Project Management), but as a producer, you kinda want to know a little bit about everything in gamedev. So pick your poison.
 
