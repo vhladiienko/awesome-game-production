@@ -24,15 +24,15 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ### If you have no idea how games are made
 
-1. [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) 📖 - This book is old, but the production process hasn't fundamentally changed.
+1. 📖 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - This book is old, but the production process hasn't fundamentally changed.
 
 ### If you want to know who the hell a game producer is
 
-- [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) 📰 - A nice summary by Jason Schreier - the dude, who you should probably follow.
-- [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) 📰
-- [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) 📰
-- [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) 📰
-- [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) 📺 - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
+- 📰 [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
+- 📰 [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
+- 📰 [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
+- 📰 [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
+- 📺 [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
 
 ### If you're interested about salaries
 
@@ -80,7 +80,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null)
 - [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null)
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
-- [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) ([slides](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time.
+- [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time (slides are [here](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)).
 
 
 ## 🔧 Tools and templates
@@ -119,7 +119,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 ### Other sources
 
-- [fedoruk.works](https://t.me/beardpm) (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) - Quality project management content, not game development specific
+- (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific
 
 ## ✏️ Contribute
 
