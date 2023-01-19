@@ -37,7 +37,7 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 ### If you're interested about salaries
 
 - Google, reddit, or glassdoor your desired position and country combination, because the salaries vary drastically. Good luck finding data!
-- [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr<sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
+- [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr <sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
 - [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
 
 ## 📚 Books
@@ -48,7 +48,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817)
 - [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234)
 - [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678)
-- <a name="art-of-gd"></a> [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
+- [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If<a name="art-of-gd"></a> you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client. 
 - [The Game Production Handbook](https://amazon.com/dp/1449688098)
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
@@ -109,7 +109,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 ### Other sources
 
-- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16"> [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific
+- [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
 
 ## 📝 Contribute
 
