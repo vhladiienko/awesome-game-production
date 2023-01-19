@@ -121,7 +121,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 ### Other sources
 
-- (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific
+- <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16"> [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific
 
 ## 📝 Contribute
 
