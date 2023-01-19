@@ -8,11 +8,12 @@ Majority of the provided resources are in English, but I might include items in 
 
 ## Contents 
 
-- [Books](#books)
-- [Articles](#articles)
-- [Videos](#videos)
-- [Tools](#tools)
-- [Subscriptions](#subscriptions)
+- [For newcomers](#-for-newcomers)
+- [Books](#-books)
+- [Articles](#-articles)
+- [Videos](#-videos)
+- [Tools](#-tools-and-templates)
+- [Subscriptions](#-subscriptions)
 
 
 ## 🎓 For newcomers
