@@ -24,7 +24,7 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ### If you have no idea how games are made
 
-1. [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) 📖 - this book is old, but the production process hasn't fundamentally changed.
+1. [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) 📖 - This book is old, but the production process hasn't fundamentally changed.
 
 ### If you want to know who the hell a game producer is
 
@@ -32,13 +32,13 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 - [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) 📰
 - [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) 📰
 - [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) 📰
-- [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) 📺 - detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
+- [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) 📺 - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
 
 ### If you're interested about salaries
 
 - Google, reddit, or glassdoor your desired position and country combination, because the salaries vary drastically. Good luck finding data!
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) by [Evva Karr](https://www.evvakarr.com/)
-- [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - not sure how accurate this data is, as I'm not from USA.
+- [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
 
 ## 📚 Books
 
@@ -50,9 +50,9 @@ Some books might not be as good as the others, but still hold some value to prod
 - [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817)
 - [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234)
 - [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678)
-- [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - if you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
+- [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
 - [The Game Production Handbook](https://amazon.com/dp/1449688098)
-- [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - it is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
+- [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
 
 
@@ -62,13 +62,13 @@ Some books might not be as good as the others, but still hold some value to prod
 
 Links to articles, hosted elsewhere. These may disapper or change location overtime, which is when you might want to ask [Wayback Machine](https://archive.org/web/) for help.
 
-- [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - if using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
-- [Designing a Production Process: Part 1](https://www.ryandarcey.com/making-moves/2016/6/30/designing-a-production-process-part-1) - use this series of articles to build your production process if you have no idea where to start.
+- [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
+- [Designing a Production Process: Part 1](https://www.ryandarcey.com/making-moves/2016/6/30/designing-a-production-process-part-1) - Use this series of articles to build your production process if you have no idea where to start.
 - [Designing a Production Process: Part 2](https://www.ryandarcey.com/making-moves/2016/7/14/designing-a-production-process-part-2)
 - [Designing a Production Process: Part 3](https://www.ryandarcey.com/making-moves/2016/8/4/designing-a-production-process-part-3)
 - [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - One could say this article states the obvious, but I personally tend to forget about some key characteristics of a good producer, especially when under pressure (always?). Serves as a good reminder.
 - [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2)
-- [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - the title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
+- [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - The title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
 
 
 ## 📺 Videos
@@ -80,7 +80,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null)
 - [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null)
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
-- [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) ([slides](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)) - your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time.
+- [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) ([slides](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time.
 
 
 ## 🔧 Tools and templates
@@ -92,8 +92,8 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 ### Tools
 
-- [Machinations](https://machinations.io/) - a tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](https://amazon.com/dp/1138632058), so its old but it has transformed over the years.
-- [Excalidraw](https://excalidraw.com/) - a free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
+- [Machinations](https://machinations.io/) - A tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](https://amazon.com/dp/1138632058), so its old but it has transformed over the years.
+- [Excalidraw](https://excalidraw.com/) - A free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
 
 ### Templates
 
@@ -111,15 +111,15 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 ### Newsletters
 
-- [Deconstructor of Fun](https://www.deconstructoroffun.com/) - not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
+- [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
 
 ### Podcasts
 
-- [The Art of LiveOps](https://pca.st/ywLc6I) - this show seems to have ended, but some (if not all) episodes are still relevant. If youre managing a live mobile game, give it a listen.
+- [The Art of LiveOps](https://pca.st/ywLc6I) - This show seems to have ended, but some (if not all) episodes are still relevant. If youre managing a live mobile game, give it a listen.
 
 ### Other sources
 
-- [fedoruk.works](https://t.me/beardpm) (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) - quality project management content, not game development specific
+- [fedoruk.works](https://t.me/beardpm) (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) - Quality project management content, not game development specific
 
 ## ✏️ Contribute
 
