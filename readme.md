@@ -1,5 +1,7 @@
 # Awesome Game Production [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Awesome Game Production](media/awesome-game-production.png)](https://github.com/vhladiienko/awesome-game-production)
+
 > A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc. This list does not cover specific disciplines like game design, quality assurance, programming. Its focus is management and production. Refer to the [Gaming section of the "master" awesome list](https://github.com/sindresorhus/awesome#gaming) for other gamedev stuff.
 
 This is **not a collection**, this is a list of the [most awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome) stuff.
@@ -8,14 +10,25 @@ Majority of the provided resources are in English, but I might include items in 
 
 ## Contents 
 
-- [🎓 For newcomers](#-for-newcomers)
-- [📚 Books](#-books)
-- [📰 Articles](#-articles)
-- [📺 Videos](#-videos)
-- [🔧 Tools and templates](#-tools-and-templates)
-- [📨 Subscriptions](#-subscriptions)
-- [📝 Contribute](#-contribute)
-- [⭐ Footnotes](#-footnotes)
+- [Awesome Game Production ](#awesome-game-production-)
+  - [Contents](#contents)
+  - [🎓 For newcomers](#-for-newcomers)
+    - [If you have no idea how games are made](#if-you-have-no-idea-how-games-are-made)
+    - [If you want to know who the hell a game producer is](#if-you-want-to-know-who-the-hell-a-game-producer-is)
+    - [If you're interested about salaries](#if-youre-interested-about-salaries)
+  - [📚 Books](#-books)
+  - [📰 Articles](#-articles)
+  - [📺 Videos](#-videos)
+  - [🔧 Tools and templates](#-tools-and-templates)
+    - [Tools](#tools)
+    - [Templates](#templates)
+  - [📨 Subscriptions](#-subscriptions)
+    - [YouTube](#youtube)
+    - [Newsletters](#newsletters)
+    - [Podcasts](#podcasts)
+    - [Other sources](#other-sources)
+  - [📝 Contribute](#-contribute)
+  - [⭐ Footnotes](#-footnotes)
 
 
 ## 🎓 For newcomers
