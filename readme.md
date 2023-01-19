@@ -50,7 +50,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817)
 - [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234)
 - [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678)
-- [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
+- <a name="art-of-gd"></a>[The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client.
 - [The Game Production Handbook](https://amazon.com/dp/1449688098)
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
@@ -92,7 +92,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 ### Tools
 
-- [Machinations](https://machinations.io/) - A tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](https://amazon.com/dp/1138632058), so its old but it has transformed over the years.
+- [Machinations](https://machinations.io/) - A tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](#art-of-gd), so its old but it has transformed over the years.
 - [Excalidraw](https://excalidraw.com/) - A free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
 
 ### Templates
@@ -121,7 +121,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific
 
-## ✏️ Contribute
+# Contribute
 
 <sup>[back to top ^](#contents)</sup>
 
