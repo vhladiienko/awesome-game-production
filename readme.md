@@ -15,6 +15,7 @@ Majority of the provided resources are in English, but I might include items in 
 - [🔧 Tools and templates](#-tools-and-templates)
 - [📨 Subscriptions](#-subscriptions)
 - [📝 Contribute](#-contribute)
+- [⭐ Footnotes](#-footnotes)
 
 
 ## 🎓 For newcomers
@@ -126,5 +127,5 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-# Footnotes
+## ⭐ Footnotes
 <a name="eva-karr-fn" href="#eva-karr">*</a> [Evva Karr](https://www.evvakarr.com/)
