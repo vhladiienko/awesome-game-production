@@ -123,6 +123,4 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 # Contribute
 
-<sup>[back to top ^](#contents)</sup>
-
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
