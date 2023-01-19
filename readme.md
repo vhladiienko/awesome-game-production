@@ -14,6 +14,7 @@ Majority of the provided resources are in English, but I might include items in 
 - [📺 Videos](#-videos)
 - [🔧 Tools and templates](#-tools-and-templates)
 - [📨 Subscriptions](#-subscriptions)
+- [Contribute](#contribute)
 
 
 ## 🎓 For newcomers
@@ -121,6 +122,6 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">) [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific
 
-# Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
