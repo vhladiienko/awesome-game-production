@@ -35,7 +35,7 @@ Handpicked newbie-friendly resources. This section explains how games are made, 
 
 ### If you have no idea how games are made
 
-1. 📖 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - This book is old, but the production process hasn't fundamentally changed.
+1. 📖 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - Read if you don't know a thing about how games are made, or skip otherwise. This book is old, but the production process hasn't fundamentally changed.
 
 ### If you want to know who the hell a game producer is
 
