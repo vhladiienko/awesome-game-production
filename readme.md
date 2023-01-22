@@ -8,6 +8,8 @@ This is **not a collection**, this is a list of the [most awesome](https://githu
 
 Majority of the provided resources are in English, but I might include items in other languages too, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Look for a flag next to the link.
 
+🔥 - awesomeness over 9000
+
 ## Contents 
 - [🎓 For newcomers](#-for-newcomers)
   - [If you have no idea how games are made](#if-you-have-no-idea-how-games-are-made)
@@ -67,6 +69,7 @@ Some books might not be as good as the others, but still hold some value to prod
 
 Links to articles, hosted elsewhere. These may disapper or change location overtime, which is when you might want to ask [Wayback Machine](https://archive.org/web/) for help.
 
+- 🔥 [Breaking The Wheel](https://www.breakingthewheel.com/getting-started-breaking-wheel/) - Justin Fischer's absolutely awesome collection of best practices and tips to leading game production. Must read. 
 - [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
 - [Designing a Production Process: Part 1](https://www.ryandarcey.com/making-moves/2016/6/30/designing-a-production-process-part-1) - Use this series of articles to build your production process if you have no idea where to start.
 - [Designing a Production Process: Part 2](https://www.ryandarcey.com/making-moves/2016/7/14/designing-a-production-process-part-2)
