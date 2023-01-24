@@ -2,7 +2,7 @@
 
 [![Awesome Game Production](media/awesome-game-production.png)](https://github.com/vhladiienko/awesome-game-production)
 
-> A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc.
+> A curated list of **awesome** resources, related to game production process - books, articles, tools, project management, methodologies - aimed to help game producers deliver their games.
 
 [Video game development](https://en.wikipedia.org/wiki/Video_game_development) (or production) is a process of developing a video game by a single person or a team of developers, not necessarily professionals or employed by someone to do so. This list is focused on [game producer's](https://en.wikipedia.org/wiki/Video_game_producer) role - a person, who manages and orchestrates the game production process in multitude of ways. Hence the shortened list name.
 
