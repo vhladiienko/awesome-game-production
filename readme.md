@@ -2,9 +2,11 @@
 
 [![Awesome Game Production](media/awesome-game-production.png)](https://github.com/vhladiienko/awesome-game-production)
 
-> A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc. This list does not cover specific disciplines like game design, quality assurance, programming. Its focus is management and production. Refer to the [Gaming section of the "master" awesome list](https://github.com/sindresorhus/awesome#gaming) for other gamedev stuff.
+> A curated list of **awesome** resources, related to game production process: books, articles, tools, project management, methodologies etc.
 
-This is **not a collection**, this is a list of the [most awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md#only-awesome-is-awesome) stuff.
+[Video game development](https://en.wikipedia.org/wiki/Video_game_development) (or production) is a process of developing a video game by a single person or a team of developers, not necessarily professionals or employed by someone to do so. This list is focused on [game producer's](https://en.wikipedia.org/wiki/Video_game_producer) role - a person, who manages and orchestrates the game production process in multitude of ways. Hence the shortened list name.
+
+This list does not cover specific disciplines like game design, quality assurance, programming. Refer to the [Gaming section of the "master" awesome list](https://github.com/sindresorhus/awesome#gaming) for other gamedev stuff.
 
 Majority of the provided resources are in English, but I might include items in other languages too, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Look for a flag next to the link.
 
@@ -12,22 +14,11 @@ Majority of the provided resources are in English, but I might include items in 
 
 ## Contents 
 - [🎓 For newcomers](#-for-newcomers)
-  - [If you have no idea how games are made](#if-you-have-no-idea-how-games-are-made)
-  - [If you want to know who the hell a game producer is](#if-you-want-to-know-who-the-hell-a-game-producer-is)
-  - [If you're interested about salaries](#if-youre-interested-about-salaries)
 - [📚 Books](#-books)
 - [📰 Articles](#-articles)
 - [📺 Videos](#-videos)
 - [🔧 Tools and templates](#-tools-and-templates)
-  - [Tools](#tools)
-  - [Templates](#templates)
 - [📨 Subscriptions](#-subscriptions)
-  - [YouTube](#youtube)
-  - [Newsletters](#newsletters)
-  - [Podcasts](#podcasts)
-  - [Other sources](#other-sources)
-- [📝 Contribute](#-contribute)
-- [⭐ Footnotes](#-footnotes)
 
 ## 🎓 For newcomers
 
@@ -123,7 +114,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
 
-## 📝 Contribute
+## 📝 Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
