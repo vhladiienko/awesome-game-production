@@ -117,7 +117,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 ### Podcasts
 
-- [The Art of LiveOps](https://pca.st/ywLc6I) - This show seems to have ended, but some (if not all) episodes are still relevant. If youre managing a live mobile game, give it a listen.
+- [The Art of LiveOps](https://pca.st/ywLc6I) - This show seems to have ended, but some (if not all) episodes are still relevant in 2023. If you're managing a live mobile game, give it a listen.
 
 ### Other sources
 
