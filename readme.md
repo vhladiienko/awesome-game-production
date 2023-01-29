@@ -12,35 +12,15 @@ Majority of the provided resources are in English, but I might include items in 
 
 🔥 - awesomeness over 9000
 
+🎓 - absolute basics
+
 ## Contents 
-- [🎓 For newcomers](#-for-newcomers)
 - [📚 Books](#-books)
 - [📰 Articles](#-articles)
 - [📺 Videos](#-videos)
 - [🔧 Tools and templates](#-tools-and-templates)
 - [📨 Subscriptions](#-subscriptions)
-
-## 🎓 For newcomers
-
-Handpicked newbie-friendly resources. This section explains how games are made, and is aimed to help deciding if you want to be a game producer. And if yes - where do you start.
-
-### If you have no idea how games are made
-
-1. 📖 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - Read if you don't know a thing about how games are made, or skip otherwise. This book is old, but the production process hasn't fundamentally changed.
-
-### If you want to know who the hell a game producer is
-
-- 📰 [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
-- 📰 [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
-- 📰 [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
-- 📰 [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
-- 📺 [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
-
-### If you're interested about salaries
-
-- Google, reddit, or glassdoor your desired position and country combination, because the salaries vary drastically. Good luck finding data!
-- [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr <sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
-- [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
+- [🌐 Websites and other resources](#-websites-and-other-resources)
 
 ## 📚 Books
 
@@ -54,6 +34,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [The Game Production Handbook](https://amazon.com/dp/1449688098)
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
+- 🎓 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - Read if you don't know a thing about how games are made, or skip otherwise. This book is old, but the production process hasn't fundamentally changed.
 
 
 ## 📰 Articles
@@ -68,7 +49,10 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - One could say this article states the obvious, but I personally tend to forget about some key characteristics of a good producer, especially when under pressure (always?). Serves as a good reminder.
 - [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2)
 - [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - The title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
-
+- 🎓 [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
+- 🎓 [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/)
+- 🎓 [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/)
+- 🎓 [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/)
 
 ## 📺 Videos
 
@@ -78,6 +62,7 @@ Links to articles, hosted elsewhere. These may disapper or change location overt
 - [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null)
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
 - [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time (slides are [here](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)).
+- 🎓 [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
 
 
 ## 🔧 Tools and templates
@@ -110,9 +95,14 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - [The Art of LiveOps](https://pca.st/ywLc6I) - This show seems to have ended, but some (if not all) episodes are still relevant in 2023. If you're managing a live mobile game, give it a listen.
 
-### Other sources
+### RSS feeds and other sources
 
 - [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
+
+## 🌐 Websites and other resources
+
+- [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr <sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
+- [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
 
 ## Contributing
 
