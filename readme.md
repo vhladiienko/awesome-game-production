@@ -6,7 +6,7 @@
 
 [Video game development](https://en.wikipedia.org/wiki/Video_game_development) (or production) is a process of developing a video game by a single person or a team of developers, not necessarily professionals or employed by someone to do so. This list is focused on [game producer's](https://en.wikipedia.org/wiki/Video_game_producer) role - a person, who manages and orchestrates the game production process in multitude of ways. Hence the shortened list name.
 
-This list does not cover specific disciplines like game design, quality assurance, programming. Refer to the [Gaming section of the "master" awesome list](https://github.com/sindresorhus/awesome#gaming) for other gamedev stuff.
+This list does not cover specific disciplines like game design, quality assurance, programming. Refer to the [Gaming section](https://github.com/sindresorhus/awesome#gaming) of the "master" awesome list for other gamedev stuff.
 
 Majority of the provided resources are in English, but I might include items in other languages too, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Look for a flag next to the link.
 
