@@ -63,6 +63,7 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
 - [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time (slides are [here](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)).
 - 🎓 [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
+- 🎓 [So You Want To Be a Producer](https://youtu.be/WUkcz2taCiw) - We'll put summary for newcomers. Consider watching other Extra Credits videos about game development (they used to focus on those back in the day).
 
 
 ## 🔧 Tools and templates
