@@ -87,6 +87,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 ### YouTube
 
 - [GDC](https://www.youtube.com/@Gdconf) - Game Developers Conference YouTube channel, all sorts of talks on anything game development related. It's huge and is updated frequently, but you'll have to filter the information you need.
+- [Noclip - Video Game Documentaries](https://www.youtube.com/@NoclipDocs) - Crowdfunded documentaries about the production process of different kinds of games. Kind of a peek behind the curtains, sometimes with interesting "post-mortem" type of insights.
 
 ### Newsletters
 
