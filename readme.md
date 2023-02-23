@@ -35,6 +35,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
 - 🎓 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - Read if you don't know a thing about how games are made, or skip otherwise. This book is old, but the production process hasn't fundamentally changed.
+- [User Story Mapping: Discover the Whole Story, Build the Right Product](https://amazon.com/dp/1491904909) - This book is about way more than just how to do story mapping. What stories are really about? How do you actually use them to change the world? If you're not usign stories like it is described in this book, then you're not using stories at all.
 
 
 ## 📰 Articles
