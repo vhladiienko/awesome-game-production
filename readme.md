@@ -26,14 +26,14 @@ Majority of the provided resources are in English, but I might include items in 
 
 Some books might not be as good as the others, but still hold some value to producers. Refer to the [Articles](#articles) section for more practical resources, and consider below books for your next evening reading session.
 
-- [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521)
-- [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817)
-- [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234)
-- [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678)
+- [Agile Game Development with SCRUM](https://amazon.com/dp/0321618521) - The book provides detailed explanations and real-world examples of how SCRUM can be used to increase productivity, improve communication, and deliver high-quality games on time and within budget.
+- [Agile Game Development: Build, Play, Repeat](https://amazon.com/dp/0136527817) - comprehensive guide to implementing agile methodologies in game development, covering topics from team dynamics to production processes. The book features case studies, practical tips, and exercises that provide readers with a hands-on approach to creating successful games with agility.
+- [Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made](https://amazon.com/dp/0062651234) - a behind-the-scenes look at the making of several popular video games, detailing the challenges faced by game developers and the intense pressures of the industry.
+- [Disrupting the Game: From the Bronx to the Top of Nintendo](https://amazon.com/dp/1400226678) - highlights the challenges Garcia faced as a woman of color in a male-dominated industry, and provides valuable insights into leadership, innovation, and diversity in the tech industry.
 - [The Art of Game Design: A Book of Lenses](https://amazon.com/dp/1138632058) - If<a name="art-of-gd"></a> you're transitioning to a management role from game design, chances are you've read this one. If not, still consider it as it will help to understand the why's behind design decisions and challenge your team or your client. 
-- [The Game Production Handbook](https://amazon.com/dp/1449688098)
+- [The Game Production Handbook](https://amazon.com/dp/1449688098) - comprehensive guide to game production, covering topics such as project management, team building, and production processes. The book includes real-world examples and case studies from successful game studios, and provides practical tips and advice for game developers at all levels.
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
-- [The Game Producer's Handbook](https://amazon.com/dp/1592006175)
+- [The Game Producer's Handbook](https://amazon.com/dp/1592006175) - practical guide to game production, covering all aspects of game development from initial concept to final release. The book provides insights into production methodologies, team management, and project planning, and includes tips and advice from experienced game producers.
 - 🎓 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - Read if you don't know a thing about how games are made, or skip otherwise. This book is old, but the production process hasn't fundamentally changed.
 - [User Story Mapping: Discover the Whole Story, Build the Right Product](https://amazon.com/dp/1491904909) - This book is about way more than just how to do story mapping. What stories are really about? How do you actually use them to change the world? If you're not usign stories like it is described in this book, then you're not using stories at all.
 
