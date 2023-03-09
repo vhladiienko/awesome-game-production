@@ -57,11 +57,11 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 
 ## 📺 Videos
 
-- [Producer Bootcamp: High Performance Producers](https://www.youtube.com/watch?v=0yyeLmjQGFg&t=null)
-- [My To-Do List: Organizing a Producer's Work](https://www.youtube.com/watch?v=zW8gKpEP-rs&t=null)
-- [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null)
-- [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null)
-- [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null)
+- [Producer Bootcamp: High Performance Producers](https://www.youtube.com/watch?v=0yyeLmjQGFg&t=null) - Gearbox Software's Aaron Thibault helps viewers build personalized progress charts in the pursuit of improving their production mastery.
+- [My To-Do List: Organizing a Producer's Work](https://www.youtube.com/watch?v=zW8gKpEP-rs&t=null) - Oculus' Bernard Yee provides a suggested to-do list for people who manage a team and project's to-do list, why they are important and how to be effective on a daily basis.
+- [Taming the Chaos: Lessons in Project Management](https://www.youtube.com/watch?v=M0uuDsjy4b0&t=null) - Clinton Keith explains how to deliver great games on schedule without breaking the bank or the backs of your team.
+- [Up Sh\*t Creek: Pro Tips for Managing the Unmanageable Project](https://www.youtube.com/watch?v=dNlEZZlmIcw&t=null) - Amy Dallas explores a mindset for producers that can help one be successful when faced with managing a seemingly impossible project and shares some survival tips to keep you focused when everything seems to be going sideways.
+- [User Story Mapping: Developing a Shared Understanding](https://www.youtube.com/watch?v=UDHW525sCOo&t=null) - Jamie Winsor shares how user story mapping is used to cut development waste and align team members behind a single, well-defined goal.
 - [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time (slides are [here](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)).
 - 🎓 [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
 - 🎓 [So You Want To Be a Producer](https://youtu.be/WUkcz2taCiw) - We'll put summary for newcomers. Consider watching other Extra Credits videos about game development (they used to focus on those back in the day).
