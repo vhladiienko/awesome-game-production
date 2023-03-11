@@ -10,9 +10,9 @@ This list does not cover specific disciplines like game design, quality assuranc
 
 Majority of the provided resources are in English, but I might include items in other languages too, if you help me by [creating a pull request](https://github.com/vhladiienko/awesome-game-production/blob/main/contributing.md). Look for a flag next to the link.
 
-🔥 - awesomeness over 9000
-
-🎓 - absolute basics
+- 🔥 - awesomeness over 9000: highly practical and easy to use
+- 🎓 - absolute basics
+- 🤯 - a complex topic, that might be hard to understand
 
 ## Contents 
 - [📚 Books](#-books)
@@ -54,6 +54,11 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - 🎓 [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) - The article explains what a video game producer does, their career path and title development, and the key skills required to become one.
 - 🎓 [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) - Focuses on the skillset of a video game producer, which includes project management methods and tools, communication and people skills, problem solving, technical skills, and a genuine interest in playing and knowing about video games.
 - 🎓 [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) - Provides five steps for landing a job as a video game producer, including identifying your realistic career level, optimizing your resume and cover letter, applying to multiple companies, preparing for interviews, and networking with recruiters.
+- 🎓 [Writing Good User Stories](https://www.easyagile.com/training/writing-good-user-stories.pdf) - A concise and easy to understand explanation of the user story and acceptance criteria concepts. Some theses might be arguable, but still worth bookmarking as a hands-on  (PDF).
+- [Basics of User Story Mapping](https://www.easyagile.com/training/introduction-to-user-story-mapping.pdf) - Same as above, a very concise and well explained user story mapping technique (PDF).
+- [Building an Agile User Story Map](https://www.easyagile.com/training/building-user-story-maps.pdf) - Hands-on guide to building a user story map (PDF).
+- 🤯 [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Thesis (theoretical) on the AgileEVM - adaptation of the classic <a name="agile-evm" href="#evm">EVM</a>, that uses Scrum's key values.
+- 🤯 [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - A little bit more practical article on how to actually calculate AgileEVM.
 
 ## 📺 Videos
 
@@ -65,6 +70,8 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - [Anatomy of Modern Game Design Documents](https://youtu.be/vU302sLgMyM) - Your game will start with a GDD and the production process will stem from the design documentation regardless of the production pipeline. Making sure you're having right documentation at the right time can help you avoid overhead during development big time (slides are [here](https://www.slideshare.net/RalfCAdam/anatomy-of-a-modern-game-design-document-ralf-adam-vera-frisch-4ckyiv)).
 - 🎓 [How to prepare yourself for Game Production](https://youtu.be/DZADPKnK6_8) - A detailed and very well explained summary of what a producer's job is about, but it contains a few gamedev specific terms.
 - 🎓 [So You Want To Be a Producer](https://youtu.be/WUkcz2taCiw) - We'll put summary for newcomers. Consider watching other Extra Credits videos about game development (they used to focus on those back in the day).
+- [Embracing Ambiguity: How to Do Good Work When You Don't Know What to Do](https://youtu.be/4DWdnoLosZ8) - Ruth Tomandl discusses the concept of ambiguity and methods for determining whether it's a problem or not in game production.
+- 🤯 [What is Earned Value Management? EVM in a nutshell](https://youtu.be/qbVDfQjpRho) - EVM<a name="evm"></a> explained in 3 minutes. Hopefully, will whet your appetite for the EVM topic.
 
 
 ## 🔧 Tools and templates
@@ -74,8 +81,9 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 ### Tools
 
-- [Machinations](https://machinations.io/) - A tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](#art-of-gd), so its old but it has transformed over the years.
+- [Machinations](https://machinations.io/) - A tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](#art-of-gd), so its old but it has transformed over the years. Not necessarily a tool for a producer to use, but it is often overlook, so go ahead and give your game designers a tip.
 - [Excalidraw](https://excalidraw.com/) - A free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
+- 🎓 [ChatGPT](https://chat.openai.com/) - Every time you are about to Google something, I would strongly advice first to ask ChatGPT your question. We, producers, might often need to reference or look up a term or a concept, which is where ChatGPT shines.
 
 ### Templates
 
@@ -101,6 +109,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 ### RSS feeds and other sources
 
 - [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
+- [Game Developer](https://www.gamedeveloper.com/rss.xml) - RSS feed of the gamedeveloper.com (ex. gamasutra.com) - both news and articles, all about game development (including production).
 
 ## 🌐 Websites and other resources
 
