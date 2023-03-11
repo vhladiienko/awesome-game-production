@@ -72,6 +72,7 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - 🎓 [So You Want To Be a Producer](https://youtu.be/WUkcz2taCiw) - We'll put summary for newcomers. Consider watching other Extra Credits videos about game development (they used to focus on those back in the day).
 - [Embracing Ambiguity: How to Do Good Work When You Don't Know What to Do](https://youtu.be/4DWdnoLosZ8) - Ruth Tomandl discusses the concept of ambiguity and methods for determining whether it's a problem or not in game production.
 - 🤯 [What is Earned Value Management? EVM in a nutshell](https://youtu.be/qbVDfQjpRho) - EVM<a name="evm"></a> explained in 3 minutes. Hopefully, will whet your appetite for the EVM topic.
+- [How The Witcher Devs Turn Great Ideas Into Game Features](https://youtu.be/moW8-MXjivs?t=2092) - Timestamped video, where Lead Game Designer from CD Project Red talks about their approach to breaking down the game into features and **prioritizing** them. Can be used as a framework as-is in your production.
 
 
 ## 🔧 Tools and templates
