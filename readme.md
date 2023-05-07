@@ -60,6 +60,11 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - 🤯 [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Thesis (theoretical) on the AgileEVM - adaptation of the classic <a name="agile-evm" href="#evm">EVM</a>, that uses Scrum's key values.
 - 🤯 [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - A little bit more practical article on how to actually calculate AgileEVM.
 
+### Post-mortems
+
+- [Postmortem: Ensemble Studio's Age of Empires II: Age of Kings](https://www.gamedeveloper.com/design/postmortem-ensemble-studio-s-age-of-empires-ii-age-of-kings) - Age of Empires II: Age of Kings was developed by Ensemble Studios with the aim of improving upon the original game in every aspect, from graphics to user interface. Modern game developers can learn from Ensemble's dedication to innovation within the genre and their use of tools and automated testing to streamline their development process.
+
+
 ## 📺 Videos
 
 - [Producer Bootcamp: High Performance Producers](https://www.youtube.com/watch?v=0yyeLmjQGFg&t=null) - Gearbox Software's Aaron Thibault helps viewers build personalized progress charts in the pursuit of improving their production mastery.
