@@ -115,6 +115,8 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 ### Podcasts
 
 - [The Art of LiveOps](https://pca.st/ywLc6I) - This show seems to have ended, but some (if not all) episodes are still relevant in 2023. If you're managing a live mobile game, give it a listen.
+- [Deconstructor of Fun](https://podcasters.spotify.com/pod/show/deconstructoroffun/) - The difference with the newsletter is that it has more stuff to read, like industry news, new game releases, in-depth articles on some general gamedev topics. Still, their podcast is great if you're on the go.
+  - [Diablo Boss Rod Fergusson On What Makes a World Class Video game Producer](https://podcasters.spotify.com/pod/show/deconstructoroffun/episodes/Diablo-Boss-Rod-Fergusson-On-What-Makes-a-World-Class-Videogame-Producer-e1peebp/a-a8n77qu) - Rod drops some knowledge on us as we talk about how to be a world-class game producer. Whether you've been making games for 2 years or 20, there is plenty to learn in enlightening episode.
 
 ### RSS feeds and other sources
 
