@@ -62,6 +62,8 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 
 ### Post-mortems
 
+Many post-mortems here are back from the day, and might seem outdated and not useful. But after reading through them you'll quickly realize the teams back then had the same issues. Use these articles as a lense to look at your problems.
+
 - [Postmortem: Ensemble Studio's Age of Empires II: Age of Kings](https://www.gamedeveloper.com/design/postmortem-ensemble-studio-s-age-of-empires-ii-age-of-kings) - Age of Empires II: Age of Kings was developed by Ensemble Studios with the aim of improving upon the original game in every aspect, from graphics to user interface. Modern game developers can learn from Ensemble's dedication to innovation within the genre and their use of tools and automated testing to streamline their development process.
 - [Baldur's Gate II: The Anatomy of a Sequel](https://www.gamedeveloper.com/design/-i-baldur-s-gate-ii-i-the-anatomy-of-a-sequel) - Baldur's Gate II, developed by BioWare, focused on improving upon the original game by refining the development process, learning from past mistakes, and incorporating player feedback. Modern game developers can apply these lessons by prioritizing features, establishing clear development guidelines, and fostering open communication between team members to create an even better sequel.
 
