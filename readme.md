@@ -42,23 +42,40 @@ Some books might not be as good as the others, but still hold some value to prod
 
 Links to articles, hosted elsewhere. These may disappear or change location overtime, which is when you might want to ask [Wayback Machine](https://archive.org/web/) for help.
 
-- 🔥 [Breaking The Wheel](https://www.breakingthewheel.com/getting-started-breaking-wheel/) - Justin Fischer's absolutely awesome collection of best practices and tips to leading game production. Must read. 
-- [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
-- [Designing a Production Process: Part 1](https://www.ryandarcey.com/making-moves/2016/6/30/designing-a-production-process-part-1) - Provides an introduction to designing a production process for game development studios, covering topics such as team structure, workflow, and asset management.
-- [Designing a Production Process: Part 2](https://www.ryandarcey.com/making-moves/2016/7/14/designing-a-production-process-part-2) - Delves deeper into the components of a production process, including milestone planning, risk management, and quality assurance.
-- [Designing a Production Process: Part 3](https://www.ryandarcey.com/making-moves/2016/8/4/designing-a-production-process-part-3) - Focuses on production methodologies, providing an overview of popular approaches such as Agile, Waterfall, and Scrum, and discussing the advantages and disadvantages of each.
-- [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - Explores the qualities and skills that make for a successful game producer, including leadership, communication, and adaptability, with insights from experienced industry professionals.
-- [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2) - Delves deeper into the role of a game producer, including project management, risk assessment, and team coordination, and provides tips for aspiring producers on how to develop their skills and excel in the role.
-- [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - The title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
+### Game Producer Role and Skills
+
 - 🎓 [What A Video Game Producer Actually Does](https://kotaku.com/what-a-video-game-producer-actually-does-1772519753) - A nice summary by Jason Schreier - the dude, who you should probably follow.
 - 🎓 [So, You Want To Be a Video Game Producer?](https://www.linkedin.com/pulse/so-you-want-video-game-producer-pauliina-tornqvist/) - The article explains what a video game producer does, their career path and title development, and the key skills required to become one.
 - 🎓 [So, You Want To Be a Video Game Producer? Part #2](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-2-pauliina-tornqvist/) - Focuses on the skillset of a video game producer, which includes project management methods and tools, communication and people skills, problem solving, technical skills, and a genuine interest in playing and knowing about video games.
 - 🎓 [So, You Want To Be a Video Game Producer? Part #3](https://www.linkedin.com/pulse/so-you-want-video-game-producer-part-3-pauliina-tornqvist/) - Provides five steps for landing a job as a video game producer, including identifying your realistic career level, optimizing your resume and cover letter, applying to multiple companies, preparing for interviews, and networking with recruiters.
+- [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - Explores the qualities and skills that make for a successful game producer, including leadership, communication, and adaptability, with insights from experienced industry professionals.
+- [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2) - Delves deeper into the role of a game producer, including project management, risk assessment, and team coordination, and provides tips for aspiring producers on how to develop their skills and excel in the role.
+- [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - The title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
+
+
+### Game Production Best Practices and Tips
+
+- 🔥 [Breaking The Wheel](https://www.breakingthewheel.com/getting-started-breaking-wheel/) - Justin Fischer's absolutely awesome collection of best practices and tips to leading game production. Must read.
+
+### Agile Project Management
+
+- [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
+- 🤯 [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Thesis (theoretical) on the AgileEVM - adaptation of the classic <a name="agile-evm" href="#evm">EVM</a>, that uses Scrum's key values.
+- 🤯 [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - A little bit more practical article on how to actually calculate AgileEVM.
 - 🎓 [Writing Good User Stories](https://www.easyagile.com/training/writing-good-user-stories.pdf) - A concise and easy to understand explanation of the user story and acceptance criteria concepts. Some theses might be arguable, but still worth bookmarking as a hands-on  (PDF).
 - [Basics of User Story Mapping](https://www.easyagile.com/training/introduction-to-user-story-mapping.pdf) - Same as above, a very concise and well explained user story mapping technique (PDF).
 - [Building an Agile User Story Map](https://www.easyagile.com/training/building-user-story-maps.pdf) - Hands-on guide to building a user story map (PDF).
-- 🤯 [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Thesis (theoretical) on the AgileEVM - adaptation of the classic <a name="agile-evm" href="#evm">EVM</a>, that uses Scrum's key values.
-- 🤯 [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - A little bit more practical article on how to actually calculate AgileEVM.
+
+### Designing a Production Process
+
+- [Designing a Production Process: Part 1](https://www.ryandarcey.com/making-moves/2016/6/30/designing-a-production-process-part-1) - Provides an introduction to designing a production process for game development studios, covering topics such as team structure, workflow, and asset management.
+- [Designing a Production Process: Part 2](https://www.ryandarcey.com/making-moves/2016/7/14/designing-a-production-process-part-2) - Delves deeper into the components of a production process, including milestone planning, risk management, and quality assurance.
+- [Designing a Production Process: Part 3](https://www.ryandarcey.com/making-moves/2016/8/4/designing-a-production-process-part-3) - Focuses on production methodologies, providing an overview of popular approaches such as Agile, Waterfall, and Scrum, and discussing the advantages and disadvantages of each.
+
+### Schedule Management
+
+- [Evidence-Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - A system, that produces reliable shipping schedules, based on the past performance of the team. It uses Monte Carlo simulation to generate distributions of possible ship dates, and then combines them with the team's availability to give a reliable date range.
+- [When will the Agile Project be done?](https://failfastmoveon.blogspot.com/2019/07/when-will-agile-project-be-done.html) - How to make an educated forecast of the project's end date, based on the team's velocity.
 
 ### Post-mortems
 
