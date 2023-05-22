@@ -35,7 +35,7 @@ Some books might not be as good as the others, but still hold some value to prod
 - [Practical Project Initiation: A Handbook with Tools](https://amazon.com/dp/0735625212) - It is what it says. Can't get more practical than this. It is not gamedev related, but you might want to pick up a few tricks for your next pre-production.
 - [The Game Producer's Handbook](https://amazon.com/dp/1592006175) - Practical guide to game production, covering all aspects of game development from initial concept to final release. The book provides insights into production methodologies, team management, and project planning, and includes tips and advice from experienced game producers.
 - 🎓 [Producing Games: From Business and Budgets to Creativity and Design](https://amazon.com/dp/0240810708) - Read if you don't know a thing about how games are made, or skip otherwise. This book is old, but the production process hasn't fundamentally changed.
-- [User Story Mapping: Discover the Whole Story, Build the Right Product](https://amazon.com/dp/1491904909) - This book is about way more than just how to do story mapping. What stories are really about? How do you actually use them to change the world? If you're not using stories like it is described in this book, then you're not using stories at all.
+- [User Story Mapping: Discover the Whole Story, Build the Right Product](https://amazon.com/dp/1491904909) - This<a name="story-mapping"></a> book is about way more than just how to do story mapping. What stories are really about? How do you actually use them to change the world? If you're not using stories like it is described in this book, then you're not using stories at all.
 
 
 ## 📰 Articles
@@ -100,7 +100,7 @@ Many post-mortems here are back from the day, and might seem outdated and not us
 - [Embracing Ambiguity: How to Do Good Work When You Don't Know What to Do](https://youtu.be/4DWdnoLosZ8) - Ruth Tomandl discusses the concept of ambiguity and methods for determining whether it's a problem or not in game production.
 - 🤯 [What is Earned Value Management? EVM in a nutshell](https://youtu.be/qbVDfQjpRho) - EVM<a name="evm"></a> explained in 3 minutes. Hopefully, will whet your appetite for the EVM topic.
 - [How The Witcher Devs Turn Great Ideas Into Game Features](https://youtu.be/moW8-MXjivs?t=2092) - Timestamped video, where Lead Game Designer from CD Project Red talks about their approach to breaking down the game into features and **prioritizing** them. Can be used as a framework as-is in your production.
-
+- 🔥 [One-Page Designs](https://www.youtube.com/watch?v=GXmsxYm0Mk0) - This one is gold. You know how in agile you want to make sure your user stories are concise and _not_ too detailed to incentivize communication? This video explains how you could apply the same principle to game design documents. Visualizing to make sure everyone discussing the design is on the same page also reminded me of the [User Story Mapping](#story-mapping) book. Watch, because it might just change your GD pipeline.
 
 ## 🔧 Tools and templates
 
