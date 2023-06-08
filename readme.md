@@ -112,6 +112,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [Machinations](https://machinations.io/) - A tool, that helps prototyping game mechanics, economy flow and states either for production or for demo purposes. This tool has been mentioned by Jesse Schell in his [Book of Lenses](#art-of-gd), so its old but it has transformed over the years. Not necessarily a tool for a producer to use, but it is often overlook, so go ahead and give your game designers a tip.
 - [Excalidraw](https://excalidraw.com/) - A free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
 - 🎓 [ChatGPT](https://chat.openai.com/) - Every time you are about to Google something, I would strongly advice first to ask ChatGPT your question. We, producers, might often need to reference or look up a term or a concept, which is where ChatGPT shines.
+- [GPT for Google Sheets and Docs](https://gptforwork.com/) - An awesome Google Workspace extension, that allows querying ChatGPT from within sheets or docs. You can generate data and modify any data tables or just text in any way using forumulas and functions directly in the documents.
 
 ### Templates
 
