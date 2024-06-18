@@ -160,6 +160,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr <sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
 - [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
 - [Seyed's Publisher Database](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit?gid=1783327951#gid=1783327951) - A very detailed list of game publishers with some extra notes on most of them. Go-to resource for finding yourself a publisher.
+- [How To Market A Game](https://howtomarketagame.com/) - Chris knows a thing or two about game marketing and discoverability. As a Game Producer, you will cross paths with marketing quite often, so go follow him.
 
 ## Contributing
 
