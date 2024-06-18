@@ -118,10 +118,15 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [Excalidraw](https://excalidraw.com/) - A free and [open source](https://github.com/excalidraw/excalidraw) online drawing tool. Neither gamedev or project management related, but is so versatile, I find myself using it quite often.
 - 🎓 [ChatGPT](https://chat.openai.com/) - Every time you are about to Google something, I would strongly advice first to ask ChatGPT your question. We, producers, might often need to reference or look up a term or a concept, which is where ChatGPT shines.
 - [GPT for Google Sheets and Docs](https://gptforwork.com/) - An awesome Google Workspace extension, that allows querying ChatGPT from within sheets or docs. You can generate data and modify any data tables or just text in any way using forumulas and functions directly in the documents.
+- [SteamDB](https://steamdb.info/) - As they say, database of everything on Steam. Very useful to follow your competitors and compare the numbers.
+- [VG Insights](https://vginsights.com/) - One of the better analytics tools and sources of estimated sales data. They also have some unique tools other similar services don't, e.g. revenue calculator, unit sales estimator and some others.
+- [Steam Wishlists To Sales Calculator](https://impress.games/steam-wishlists-sales-calculator) - Simple tool to help you ballpark sales numbers based on the wishlists count on Steam. It is not as accurate, as some other tools are, but is the simplest one.
 
 ### Templates
 
 - [Art Asset List template](https://docs.google.com/spreadsheets/d/1G7X_Xzx9P8TONQewx8FDgBgF06pQcRPzz3COvWiHn2U/edit?usp=sharing) - A basic and process agnostic template to keep track of all in-game assets, that need to be produced, their status (high-level) and naming. Should be adjusted to your production pipeline.
+- [GameDiscoverCo - BASIC net revenue predictions](https://docs.google.com/spreadsheets/d/11tNEABOKuJxX9kTLJ08DyEMf1UC3cbLdejRtmjgLBDI/edit?gid=0#gid=0) - A simple template to calculate your sales projections. As the name implies, it is very basic.
+- [Forecasting model by Fellow Traveler](https://docs.google.com/spreadsheets/d/1_cG9zDn_fzy6EhClcCpxKAWDVyb_SNaARCKsXChAvKo/edit?gid=0#gid=0) - A solid template to use when forecasting sales numbers for your game. 
 
 ## 📨 Subscriptions
 
@@ -137,6 +142,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 ### Newsletters
 
 - [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
+- [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - Focused on the business side of game production and game discoverability, theit in-depth analysis on Steam-related topics is gold. Must-read.
 
 ### Podcasts
 
@@ -153,6 +159,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - [Global GameDev Salaries 2020-2021](https://docs.google.com/spreadsheets/d/1cM3_iBGF8IXZfLS5GKvC0-JWh0tS6TVYJJ-HxlguinA/edit?usp=sharing) - A Google Sheet with salarie statistics, put together by Evva Karr <sup><a name="eva-karr" href="#eva-karr-fn">*</a></sup>
 - [H1B Salary Database](https://h1bdata.info/index.php?em=&job=game+producer&city=&year=all+years) - Not sure how accurate this data is, as I'm not from USA.
+- [Seyed's Publisher Database](https://docs.google.com/spreadsheets/d/15AN1I1mB67AJkpMuUUfM5ZUALkQmrvrznnPYO5QbqD0/edit?gid=1783327951#gid=1783327951) - A very detailed list of game publishers with some extra notes on most of them. Go-to resource for finding yourself a publisher.
 
 ## Contributing
 
