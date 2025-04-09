@@ -163,7 +163,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
 - [Kryuchkov about outsourcing](https://t.me/KPOutsourcing) - Software Delivery Management Consultant Alexander Kryuchkov shares his advice about managing projects. I like him a lot because basically every post is highly practical and is packed with experience. Must read for any Project Manager (<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
-- [William W. Davis](https://www.linkedin.com/in/famousdavis/recent-activity/all/) - Insightful LinkedIn posts on agile in project management. William is also an author of the <a name="pert" href="#evm">Statistical PERT</a>.
+- [William W. Davis](https://www.linkedin.com/in/famousdavis/recent-activity/all/) - Insightful LinkedIn posts on agile in project management. William is also an author of the <a name="pert" href="#pert">Statistical PERT</a>.
 - [Game Developer](https://www.gamedeveloper.com/rss.xml) - RSS feed of the gamedeveloper.com (ex. gamasutra.com) - both news and articles, all about game development (including production).
 - [Naavik](https://naavik.co/feed) - A very high-quality business-focused blog to stay up-to-date on the industry. Check out their "Deep Dives" series for case studies on the failures and successes of pupular titles and studios.
 
