@@ -135,7 +135,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [GameDiscoverCo - BASIC net revenue predictions](https://docs.google.com/spreadsheets/d/11tNEABOKuJxX9kTLJ08DyEMf1UC3cbLdejRtmjgLBDI/edit?gid=0#gid=0) - A simple template to calculate your sales projections. As the name implies, it is very basic.
 - [Forecasting model by Fellow Traveler](https://docs.google.com/spreadsheets/d/1_cG9zDn_fzy6EhClcCpxKAWDVyb_SNaARCKsXChAvKo/edit?gid=0#gid=0) - A solid template to use when forecasting sales numbers for your game.
 - [Altshift Steam Market Study template](https://docs.google.com/spreadsheets/d/1tcfsNVI4x-T-Fq8gNCjiNVutB-pol2Awn6fscoZ2c-Q/edit?gid=0#gid=0) - Another template to help you analyze your competitors and calculate your potential sales numbers. Ideally, use this in combination with other templates mentioned aboe to refine your guesstimations.
-- [Statistical PERT](https://www.statisticalpert.com/) - A <a name="pert"></a>set of templates to help estimate and forecast a project, and hopefully make an educated decision when needed.
+- [Statistical PERT](https://www.statisticalpert.com/) - A <a name="pert"></a>set of Excel templates to help estimate and forecast a project, and hopefully make an educated decision when needed.
 
 ## 📨 Subscriptions
 
